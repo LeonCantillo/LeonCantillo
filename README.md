@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @LeonCantillo
+- 👀 I’m interested in software development and cyber security
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on Microsoft
+- 📫 How to reach me: cleonjd17@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I Love Music
